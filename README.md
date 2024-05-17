@@ -14,4 +14,5 @@
 
 * Giao diện sau khi chạy các lệnh:
   - Giao diện màn hình chờ  <img width="1448" alt="Ảnh màn hình 2024-05-17 lúc 13 40 12" src="https://github.com/bqt1703in/keobuabao/assets/132136933/b10eacab-647a-4d34-b598-83e519872f33">
-  - Giao diện bắt đầu game ![Uploading Ảnh màn hình 2024-05-17 lúc 13.42.30.png…]()
+  - Giao diện bắt đầu game 
+![Uploading Ảnh màn hình 2024-05-17 lúc 13.44.08.png…]()
